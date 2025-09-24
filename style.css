@@ -1,0 +1,40 @@
+body{
+    font-size: arial;
+}
+
+
+
+.teste{
+   
+    background-color: rgb(57, 103, 255);
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    border: rgb(58, 58, 199);
+     height:1000px;
+    width: 1000px;
+}
+
+
+
+
+.menu1{
+    display: flex;
+    justify-content:space-around  ;
+
+}
+
+a{
+    color: aliceblue;
+}
+
+.botao{
+    
+   color: aliceblue;
+ padding-top: 0;
+text-align: center;
+background-color: transparent;
+border-radius: 10px;
+
+  
+
+}
