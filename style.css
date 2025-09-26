@@ -1,0 +1,83 @@
+body{
+ font-family: Arial, sans-serif;
+}
+
+
+
+.caixa_mae{
+     height: 700px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    background-color: green;
+}
+
+
+.caixa1{
+    
+    border-radius: 10px;
+    background-color: rgb(36, 92, 36);
+
+}
+
+.plvrs{
+    display: flex;
+justify-content: space-between;
+padding: 0;
+left: 200px;
+
+
+}
+.img1{
+    
+height: 100px;
+    width: 100px;
+ display: flex;
+ justify-content: flex-start;
+}
+
+
+a{
+    color: aliceblue;
+}
+
+ul{
+    display: flex;
+    gap: 23px;
+  margin-left: 900px;
+}
+
+li{
+    list-style: none;
+}
+
+
+.btn{
+    background-color: transparent;
+    border-color: black;
+   border-radius: 20px;
+   padding: 0;
+   margin: 13px 13px 0 0;
+   height: 30px;
+   width: 90px;
+   font-size: 15px;
+
+}
+
+
+p{
+    color: aliceblue;
+}
+
+.caixa2{
+    display: flex;
+    justify-content:  space-around;
+    color: aliceblue;
+}
+
+
+.img2{
+    border-color: transparent;
+    border-radius: 40px;
+    height: 300px;
+    width: 300px;
+}
